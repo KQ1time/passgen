@@ -1,3 +1,5 @@
+# version 1.1
+
 from secrets import choice
 from json import load
 
@@ -30,3 +32,4 @@ def main():
             return
 
 main()
+
