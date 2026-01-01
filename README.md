@@ -1,4 +1,4 @@
-<h1>passgen v1.1</h1>
+<h1>passgen v0.3.1</h1>
 This program create 12-symbols password.
 
 <h2>Manual</h2>
