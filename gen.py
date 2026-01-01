@@ -1,4 +1,4 @@
-# version 1.2.1
+# version 0.3.1
 
 from secrets import choice
 import json
@@ -80,3 +80,4 @@ def main():
             return
 
 main()
+
